@@ -9,7 +9,7 @@ Iris Flower Classification Data Science Project
 
 **Dataset:**  
   -> The classic Iris dataset (150 samples, 4 features)
-  -> Features: Sepal Length, Sepal Width, Petal Length, Petal Width
+  -> Features: Sepal Length, Sepal Width, Petal Length, Petal Width.
   -> Target: Species
 
 What This Notebook Includes
